@@ -1,0 +1,7 @@
+@startuml
+class Perro {
+    nombre: String
+    raza: String
+    imagen: String
+}
+@enduml
